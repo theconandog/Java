@@ -1,0 +1,13 @@
+public class Exercise {
+	public static void main (String[] args) {
+		int age = 15;
+		System.out.println("Minha idade é " + age);
+
+		double c = 540.50;
+		int s = 1000;
+		System.out.println("Meu salário é: " + s);
+		System.out.println("A conta deu: " + c);
+		System.out.println("Total:");
+		System.out.println(s - c);
+	}
+}
